@@ -1,0 +1,20 @@
+.heading{
+    color: red;
+}
+
+#image,#image1,#image2,#image3,  #image4, #image5 ,#image6 , #image7 , #image8{
+    width: 300px;
+        display: inline-block;
+        margin-right: 30px;
+        margin-top: 30px;
+
+    }
+
+    .table,tr,th,td{
+        text-align: center;
+        background-color: white;
+        border-style: solid;
+        border-color: grey;
+        margin-left: 30%;
+        margin-top: 4%;
+    }    
